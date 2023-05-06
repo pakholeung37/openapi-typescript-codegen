@@ -1,6 +1,7 @@
 {
-    "name": "openapi-typescript-codegen",
+    "name": "@pakholeung37/openapi-typescript-codegen",
     "version": "0.24.0",
+    "private": false,
     "description": "Library that generates Typescript clients based on the OpenAPI specification.",
     "author": "Ferdi Koomen",
     "homepage": "https://github.com/ferdikoomen/openapi-typescript-codegen",
